@@ -43,6 +43,5 @@ Find the traversal path in a directed graph starting from node A using Depth-Fir
 A → C → F → B → D → E
 
 **Code:**  
-Add your DFS implementation to `codes/dfs.py` and link it here.  
-[`codes/dfs.py`](codes/DFS Traversal.py)
+[`codes/DFS Traversal.py`](codes/DFS Traversal.py)
 ---
