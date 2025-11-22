@@ -73,9 +73,3 @@ def dfs_stack(graph, start):
 path = dfs_stack(graph1, 'A')
 print(" -> ".join(path))
 
-
-rt at node A.  
-2. **Step 2:** Move from A to node C.  
-3. **Step 3:** From C, go to node F.  
-4. **Step 4:** F has no outgoing unvisited edges → backtrack to C, then to A.  
-5. **Step 5:** From A, visit node B.  
